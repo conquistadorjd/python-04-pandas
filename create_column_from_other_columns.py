@@ -4,7 +4,7 @@
 #	date:	2018-06-16
 #	Author:	conquistadorjd
 ################################################################################################
-import pandas as pdea
+import pandas as pd
 import numpy as np
 # import pandas_datareader as datareader
 import matplotlib.pyplot as plt
